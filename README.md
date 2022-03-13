@@ -1,8 +1,6 @@
-# Pomodoro Clock previewer using ReactJs.
+# Pomodoro Clock using ReactJs.
 
 You can check the project on this page [Here](https://codepen.io/mohanadoo/full/abLWmGV)
-
-It was a challenge creating this project but it was satisfying in the end.
 
 Check out my Other projects created with React.js as well 👇
 
